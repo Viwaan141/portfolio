@@ -25,9 +25,9 @@ const jobsection = () =>{
     return (
         <>
         <div className='d-flex justify-content-center'>
-        <div className='d-flex mt-5' style={{fontSize:"25px"}}>
+        <div className='d-flex mt-5 text-gradient-mob' style={{fontSize:"25px"}}>
             <div >
-              <img className='job-card-one' src="https://indiancompanies.in/wp-content/uploads/2020/05/TCS-Logo-Tata-consultancy-service-1024x610.png" alt="logo" />
+              <img className='job-card-one' src="https://tse2.mm.bing.net/th?id=OIP.aMoVSpiXHkBRvQqeHwYfxgHaEq&pid=Api&P=0&h=180g" alt="logo" />
             </div>
             <div  className='job-card-two ms-4'>
               <div>Tata Consultancy Services <a href="https://indiancompanies.in/wp-content/uploads/2020/05/TCS-Logo-Tata-consultancy-service-1024x610.png" rel="noreferrer" className='ms-2' target='_blank'><FaExternalLinkAlt/></a> </div>
@@ -35,7 +35,7 @@ const jobsection = () =>{
                <div>Data Engineer</div>
                {/* <div>Remote</div> */}
                <div>Language : Python, SQL,</div>
-               <div className='d-flex flex-wrap' style={{width:"450px"}}>Tool/Framework : Pyspark, Palantir, Foundry, GCP- BIGWquery, Power BI, Slate, Pandas, Numpy, jQuery </div>
+               <div className='d-flex flex-wrap mob-mail' style={{width:"450px"}}>Tool/Framework : Pyspark, Palantir, Foundry, GCP- BIGWquery, Power BI, Slate, Pandas, Numpy, jQuery </div>
                <div>Technical Skill : ETL, Cloud(GCP), Selenium</div>
                {/* <div>My Works : <a href="https://indiancompanies.in/wp-content/uploads/2020/05/TCS-Logo-Tata-consultancy-service-1024x610.png"  rel="noreferrer" className='ms-2'   target='_blank'><SiHubspot/></a> <a href="https://10times.com/experts" className='ms-2' rel="noreferrer" target='_blank'><FaUserAlt/></a> <a href="https://10times.com/experts" className='ms-2' rel="noreferrer" target='_blank'><BsCalendar2EventFill/></a> </div> */}
             </div>
@@ -73,8 +73,8 @@ const main = () => {
      <div className='text-design text-center text-gradient' style={{marginLeft:'25px'}}> 
       Data Engineer
      </div>
-     <div className='d-flex justify-content-center align-items-center gap-5' style={{fontSize:'25px'}}>
-        <div> <div className='text-center'>Contact</div> <div>prakashkumarmehta738@gmail.com</div> </div>
+     <div className='d-flex justify-content-center align-items-center gap-5 text-gradient-mob' style={{fontSize:'25px'}}>
+        <div> <div className='text-center'>Contact</div> <div className='mob-mail'>prakashkumarmehta738@gmail.com</div> </div>
         <div> <div className='text-center'>Location</div> <div>Gurgaon, India</div></div>
      </div>
      <div style={{overflow:"hidden"}}>
