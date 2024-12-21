@@ -1,11 +1,12 @@
 import React from "react";
 import "../App.css";
+///import { FaGithub } from "react-icons/fa";
 
 function Card({ title, description, icon, onClick }) {
   return (
     <div className="card-cu">
       {/* <div>
-        <div className="profile-desc">Software developer</div>
+        <div className="profile-desc">DATA Engineer</div>
       </div>
       <div className="profile-box">
         <div className="profile-sub-box">🧑‍💻</div>
@@ -13,7 +14,7 @@ function Card({ title, description, icon, onClick }) {
       <div>
         <div className="profile-desc-down">Hi, I'm Sachin Kumar</div>
       </div> */}
-      <h1 className="text-gradient">Hi I'm Sachin Kumar</h1>
+      <h1 className="text-gradient">Hi I'm Prakash Kumar Mehta </h1>
     </div>
   );
 }

@@ -6,7 +6,7 @@ const Header = () =>{
        
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <div class="container-fluid">
-            <div className="text-secondary">Sachin Kumar</div>
+            <div className="text-secondary">Prakash Kumar Mehta</div>
             <div className="btn btn-dark">Home</div>
             <div className="btn btn-dark">Contact</div>
            </div>

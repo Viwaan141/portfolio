@@ -14,21 +14,24 @@ function App() {
      <div className='d-flex justify-content-center flex-wrap gap-5 mt-5'>
         <EducationCard
           degree="Bachelor of Technology"
-          institution="Truba College of Science and Technology"
-          year="2023"
-          description="Focused on software engineering and completed projects in React.js, Node.js, and more."
+          institution="Silicon Institute of Technology, Bhubaneshwar"
+          year="2020"
+          description="Electronics and Communication Engineering"
+          grade="8.35"
         />
         <EducationCard
           degree="Intermediate"
-          institution="A.K. Gopalan College"
-          year="2019"
-          description="Specialized in mathematics"
+          institution="DDGPSS School, Kota, Rajasthan"
+          year="2016"
+          description="Specialized in Mathematics"
+          grade="74.60%"
         />
         <EducationCard
           degree="Matriculation"
-          institution="L/S High School Ramankabad"
-          year="2016"
+          institution="Vimla Pandey Memorial Gyan Niketan School, Daltonganj "
+          year="2014"
           description="All Subjects"
+          grade="9.6"
         />
       </div>
       <Footer/>

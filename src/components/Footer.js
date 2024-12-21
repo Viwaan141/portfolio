@@ -15,7 +15,7 @@ const Footer = () =>{
         <div className="d-flex justify-content-center">
         <div className="d-flex gap-2 bg-dark p-1" style={{fontSize:"30px",borderRadius:"8px"}} >
         <a
-        href="mailto:sachinagon@gmail.com"
+        href="mailto:prakashkumarmehta738@gmail.com"
         style={{ textDecoration: "none", color: "inherit" }}
         title="Send Email"
         >
@@ -24,7 +24,7 @@ const Footer = () =>{
 
       
       <a
-        href="tel:+9191351575"
+        href="tel:+9910481180"
         style={{ textDecoration: "none", color: "inherit" }}
         title="Call Now"
       >
@@ -33,7 +33,7 @@ const Footer = () =>{
         </div>
         </div>
         
-        <div className='mt-5 text-center  text-gradient'  style={{fontSize:"20px"}}>@2024 Sachin Kumar - All Rights Reserved.</div>
+        <div className='mt-5 text-center  text-gradient'  style={{fontSize:"20px"}}>@2024 Prakash Kumar Mehta - All Rights Reserved.</div>
         </div>
         </>
     )
