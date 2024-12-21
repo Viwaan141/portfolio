@@ -35,7 +35,7 @@ const jobsection = () =>{
                <div>Data Engineer</div>
                {/* <div>Remote</div> */}
                <div>Language : Python, SQL,</div>
-               <div className='d-flex flex-wrap mob-mail' style={{width:"450px"}}>Tool/Framework : Pyspark, Palantir, Foundry, GCP- BIGWquery, Power BI, Slate, Pandas, Numpy, jQuery </div>
+               <div className='d-flex flex-wrap mob-mail' style={{width:"450px"}}>Tool/Framework : Pyspark, Palantir, Foundry, GCP- BigQuery, Power BI, Slate, Pandas, Numpy, jQuery </div>
                <div>Technical Skill : ETL, Cloud(GCP), Selenium</div>
                {/* <div>My Works : <a href="https://indiancompanies.in/wp-content/uploads/2020/05/TCS-Logo-Tata-consultancy-service-1024x610.png"  rel="noreferrer" className='ms-2'   target='_blank'><SiHubspot/></a> <a href="https://10times.com/experts" className='ms-2' rel="noreferrer" target='_blank'><FaUserAlt/></a> <a href="https://10times.com/experts" className='ms-2' rel="noreferrer" target='_blank'><BsCalendar2EventFill/></a> </div> */}
             </div>
